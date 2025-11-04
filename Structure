@@ -1,0 +1,9 @@
+springboot-crud-demo/
+ ┣ src/main/java/com/example/demo/
+ ┃ ┣ controller/EmployeeController.java
+ ┃ ┣ entity/Employee.java
+ ┃ ┣ repository/EmployeeRepository.java
+ ┃ ┣ service/EmployeeService.java
+ ┃ ┗ DemoApplication.java
+ ┣ src/main/resources/application.yml
+ ┗ README.md
